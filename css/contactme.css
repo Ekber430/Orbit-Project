@@ -87,6 +87,7 @@ textarea{
     font-size: 12px;
     font-weight: 500;
     letter-spacing: 0.05rem;
+    transition: 0.3s;
 }
 
 .information-div{
@@ -125,3 +126,8 @@ textarea{
 .contact-links:hover{
     color: #96bb7c;
 }
+
+.submit:hover{
+    background-color: #aed096;
+}
+

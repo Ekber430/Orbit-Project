@@ -115,6 +115,10 @@ h1 {
     font-weight: 700;
 }
 
+.colorlib-link:hover{
+    color: #96bb7c;
+}
+
 .dropdown-one {
     position: relative;
     display: inline-block;
