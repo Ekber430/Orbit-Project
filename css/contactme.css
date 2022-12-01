@@ -1,0 +1,127 @@
+/* This section is about Contact me */
+
+#contact-me-section{
+    width: 100%;
+    height: 75vh;
+}
+
+.contact-main-div{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+}
+
+.contact-info-flex{
+    display: flex;
+    width: 1000px;
+}
+
+input{
+    border: none;
+    border-bottom: 1px solid #43434d;
+    color: #939393;
+}
+
+.names{
+    height: 45px;
+    font-size: 16px;
+    width: 290px;
+}
+
+.contact-name-flex{
+    width: 100%;
+    display: flex;
+}
+
+.form-main-div{
+    width: 1000px;
+}
+
+.form-div{
+    width: 790px;
+}
+
+.contact-labels {
+    color: #939393;
+}
+
+.names-div{
+    width: 300px;
+}
+
+form{
+    width: 100px;
+    margin-top: 50px;
+}
+
+.email-div{
+    margin-top: 20px;
+}
+
+.email{
+    width: 590px;
+    height: 45px;
+}
+
+textarea{
+    resize: vertical;
+    border: none;
+    border-bottom: 1px solid #43434d;
+}
+
+.textarea-div{
+    margin-top: 20px;
+}
+
+.button-div{
+    margin-top: 20px;
+}
+
+.submit {
+    background: #96bb7c;
+    color: #fff;
+    width: 160px;
+    height: 50px;
+    border-radius: 50px;
+    font-size: 12px;
+    font-weight: 500;
+    letter-spacing: 0.05rem;
+}
+
+.information-div{
+    width: 400px;
+}
+
+.info-header{
+    font-size: 20px;
+    font-weight: 400;
+    margin-top: 50px;
+}
+
+.info-address{
+    font-size: 16px;
+    color: #000000;
+    font-weight: 400;
+    margin-top: 30px;
+}
+
+.contact-links{
+    text-decoration: none;
+    color: #96bb7c;
+}
+
+.contact-lists{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.contact-list{
+    padding: 0;
+    margin-top: 20px;
+}
+
+.contact-links:hover{
+    color: #96bb7c;
+}

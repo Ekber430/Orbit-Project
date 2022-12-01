@@ -1,0 +1,92 @@
+/* This section is about Resume */
+
+#resume-section {
+    width: 100%;
+    height: 115vh;
+}
+
+.resume-main-div {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.resume-flex {
+    display: flex;
+    height: 100%;
+    margin-top: 50px;
+}
+
+.resume-image-div {
+    margin-right: 100px;
+}
+
+.resume-image {
+    width: 370px;
+    height: 470px;
+}
+
+.resume-header {
+    font-weight: 400;
+}
+
+.resume-info-div {
+    display: flex;
+    flex-direction: column;
+    margin-top: 40px;
+}
+
+.resumes {
+    display: flex;
+}
+
+.resume-text {
+    color: black;
+    font-size: 18px;
+    display: inline;
+}
+
+.resume-icon {
+    color: #ccc;
+    font-size: 15px;
+}
+
+.resume-company {
+    display: inline-block;
+    color: #939393;
+    margin-left: 3px;
+    font-size: 15px;
+    padding-top: 10px;
+}
+
+.fulltime {
+    display: inline;
+    font-size: 14px;
+    background: rgba(150,187,124,.1);
+    color: #96bb7c;
+    padding: 8px 25px 8px 25px;
+    border-radius: 30px;
+    width: 200px;
+    font-weight: 500;
+}
+
+.right-side-resume {
+    text-align: right;
+    margin-left: 200px;
+    width: 200px;
+}
+
+.right-side-exception {
+    padding-top: 0;
+}
+
+hr {
+    height: 1px;
+    color: #939393;
+}
+
+.last-resume-div {
+    margin-left: 150px;
+    width: 300px;
+}
